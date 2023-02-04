@@ -17,13 +17,13 @@ windows
 
 ### （二）部署截图
 
-(部署截图)[https://github.com/imrewang/MatchstickMen/blob/main/screenshot/%E9%83%A8%E7%BD%B2%E6%88%AA%E5%9B%BE.png?raw=true]
+![部署截图](https://github.com/imrewang/MatchstickMen/blob/main/screenshot/%E9%83%A8%E7%BD%B2%E6%88%AA%E5%9B%BE.png?raw=true)
 
 ## 三、运行截图
 
-(运行截图)[https://github.com/imrewang/MatchstickMen/blob/main/screenshot/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png?raw=true]
+![运行截图](https://github.com/imrewang/MatchstickMen/blob/main/screenshot/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE.png?raw=true)
 
-(运行截图2)[https://github.com/imrewang/MatchstickMen/blob/main/screenshot/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE2.png?raw=true]
+![运行截图2](https://github.com/imrewang/MatchstickMen/blob/main/screenshot/%E8%BF%90%E8%A1%8C%E6%88%AA%E5%9B%BE2.png?raw=true)
 
 ## 四、总结
 
